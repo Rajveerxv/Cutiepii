@@ -295,8 +295,8 @@ else:
 
 SUDO_USERS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1418166549)
-DEV_USERS.add(1922003135)
+DEV_USERS.add(6258760637)
+DEV_USERS.add(6258760637)
 
 REDIS = StrictRedis.from_url(REDIS_URL, decode_responses=True)
 
